@@ -3,3 +3,4 @@
 ## 1.) Used streamlit for making the webpage in python.
 ## 2.) Used yahoo finance for getting the stock informations
 ## 3.) Used pandas and matplotlib for handling and visualization of data
+### To run use command :- "streamlit run app.py"
